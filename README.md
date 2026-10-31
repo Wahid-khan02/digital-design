@@ -1,6 +1,7 @@
 # Verilog Experiments
+The new 8-bit ALU experiment is in `experiments/55_alu_8bit/`.
 
-54 self-contained digital design experiments, numbered `01`–`54`, from single
+55 self-contained digital design experiments, numbered `01`–`55`, from single
 gates to a full RTL-to-netlist synthesis flow. Numbering is thematic:
 combinational arithmetic first, then data routing, sequential logic, state
 machines, memory, modeling styles, and finally the synthesis flow.
